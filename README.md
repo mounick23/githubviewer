@@ -1,8 +1,8 @@
-# OctoProfile
+# githubviewer
 
 A nicer look at your GitHub Profile! With charts!
 
-![demo](https://raw.githubusercontent.com/bchiang7/octoprofile/master/static/og.png)
+![demo](https://raw.githubusercontent.com/mounick23/githubviewer/master/static/og.png)
 
 Built with:
 
